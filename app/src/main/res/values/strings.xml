@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica03 RODRIGUEZ SALAZAR HECTOR MAURICIO</string>
+
+    <string name="Titulo">Práctica 03 Herramientas</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="codigo">Codigo</string>
+    <string name="costo">Costo</string>
+    <string name="peso">Peso</string>
+    <string name="tamanio">Tamaño</string>
+    <string name="dimensiones">Dimensiones</string>
+    <string name="agregar">Agregar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="contenido">Contenido</string>
+</resources>
